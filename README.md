@@ -1,4 +1,4 @@
-# King_James_Bible
+# Authorized Version of the King James Bible 1611
 ## Downloaded the text version from **The Internet Archive**. 
 This version is placed in the public domain and the formatting should lend itself to search and replace functions rather than hand editing the entire Bible.
 
@@ -12,3 +12,5 @@ git clone git@github.com:OrthodoxFriar/King_James_Bible.git
 I have a template so I can `cat xhtml+rdfa.xml > King_James_Bible/AKJV.xhtml`
 
 Now in Vim I can `:read ../AKJV.txt`
+  
+Now I realize my server isn't set up to sign commits so I will pause here to enforce signing.
