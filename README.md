@@ -1,6 +1,6 @@
 # Authorized Version of the King James Bible 1611
 ## The Goal
-I want to take the text of the Authorized Version (KJV) and turn it into an XML document so that it can be parsed with XML tools. I'm starting with XHTML+RDFa so that it will render in a browser for live preview and because it will be trivial to turn it into an html document, just edit the !DOCTYPE definition at the top. It should be compatible with HTML 4 or HTML 5.
+I want to take the text of the Authorized Version (KJV) and turn it into an XML document so that it can be parsed with XML tools. I'm starting with XHTML+RDFa so that it will render in a browser for live preview and because it will be trivial to turn it into an html document, just edit the !DOCTYPE definition at the top. It should be compatible with HTML 5.
 
 ## Downloaded the text version from **The Internet Archive**. 
 This version is placed in the public domain and the formatting should lend itself to search and replace functions rather than hand editing the entire Bible.
