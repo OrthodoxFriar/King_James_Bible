@@ -16,3 +16,4 @@ I have a template so I can `cat xhtml+rdfa.xml > King_James_Bible/AKJV.xhtml`
 
 Now I realize my server isn't set up to sign commits so I will pause here to enforce signing.
 
+Testing commit signing
