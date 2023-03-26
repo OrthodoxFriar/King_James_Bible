@@ -14,8 +14,10 @@ cd to the directory where I want the repo to live
 ** Twofold Benefits
 I am going to be learning and practicing nvim during the process and I'll keep the code here along with comments.
 
-** Macro to add paragraph tags <p>{1:1}content</p>\n{1:2}
-
+** I started with macros using search
+Macros is a big improvement over manually editing
+- 1000 <C-j> to combine 1000 lines into 1
+- record a macro as I edit the 
 ** Removing double spaces
 %s![^ ]\zs  \+! !g
 
